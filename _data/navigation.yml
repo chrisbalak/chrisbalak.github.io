@@ -6,6 +6,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "UCSD BMS"
+    url: /ucsdbms/  
+
   - title: "Talks"
     url: /talks/    
 
@@ -13,7 +16,7 @@ main:
     url: /teaching/    
     
 #  - title: "Portfolio"
-#    url: /portfolio/
+#    url: /portfolio/  
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
