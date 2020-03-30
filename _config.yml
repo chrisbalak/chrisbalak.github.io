@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "     Home     "
 title_separator          : "-"
 name                     : &name "Christopher Balak, B.Sc."
 description              : &description "Ph.D. student at University of California San Diego"
