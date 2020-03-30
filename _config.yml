@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "<<<<< Home >>>>>"
 title_separator          : "-"
-name                     : &name "Christopher Balak, B.Sc."
+name                     : &name "ChrisBalak"
 description              : &description "my website"
 url                      : https://chrisbalak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Christopher Balak, B.Sc."
   avatar           : "profile.png"
-  bio              : "Biomedical Sciences Ph.D. student<br/>University of California San Diego<br/>School of Medicine"
+  bio              : "Ph.D. student in the Biomedical Sciences<br/>Uni. of California San Diego<br/>School of Medicine"
   location         : "La Jolla, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=balak+c"
