@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Christopher Balak, B.Sc."
   avatar           : "profile.png"
-  bio              : "Biomedical Sciences Ph.D. student"
-                     "University of California San Diego"
-                     "School of Medicine"
+  bio              : "Biomedical Sciences Ph.D. student\University of California San Diego\School of Medicine"
   location         : "La Jolla, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=balak+c"
