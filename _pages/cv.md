@@ -11,21 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Genetic, Cell and Developmental Biology, Arizona State University, 2014
+* Current training program:
+    * Ph.D. in Biomedical Sciences/Genetics, University of California San Diego - School of Medicine
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2020: Ph.D. Research Rotation
+  * Sanford Consortium for Regenerative Medicine
+  * CAG repeat disorder disease modeling via Crispr/Cas9 in iPSCs (Spinocerebellar Ataxia type 1)
+  * Mentor/P.I.: Gene Yeo, Ph.D.
+  
+* Fall 2019: Ph.D. Research Rotation
+  * University of California, San Diego - School of Medicine
+  * Chromatin landscape studies in microglia/other brain cell types from nuclei isolated from multiple brain regions
+  * Mentor/P.I.: Christopher Glass, M.D., Ph.D.
+  
+* 2015 - 2019: Research Associate I/II – Huentelman Lab / Center for Rare Childhood Disorders
+  * Translational Genomics Research Institute (TGen), Phoenix, AZ
+  * Genetic studies of childhood and late-stage neurological disease
+  * Mentors/P.I.: Matt Huentelman, Ph.D. and Vinodh Narayanan, M.D.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - 2015: Helios Scholar, Research Associate
+  * Translational Genomics Research Institute (TGen), Phoenix, AZ
+  * Biomchemical charactorization of mutations leading to X-linked Spinal Muscular Atrophy 
+  * Supervisor: Lisa Baumbach-Reardon, Ph.D.
+  
+* 2012: Henkel Co-Op Research Scholar
+  * Henkel AG & Company, KGaA, Scottsdale, AZ
+  * Various product line stability and chemical testing
   
 Skills
 ======
