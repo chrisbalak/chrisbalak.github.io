@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Just a 1st year in the UCSD biomedical sciences (bms) graduate program trying to make it through Corona2020.
-
-
-.
+Chris Balak is Ph.D. student in the Biomedical Sciences Graduate program at UCSD School of Medicine. 
+Chris graduated from Arizona State University in 2014 with a Bachelor of Science (summa cum laude) in Genetics, Cell, and Developmental Biology. His undergraduate research at the nearby Translational Genomics Research Institute (TGen) with Dr. Lisa Baumbach-Reardon focused on the UBA1 gene in X-linked Spinal Muscular Atrophy, a neuromuscular disorder, and biochemical characterization of mutations which lead to the disorder. After graduation, he spent four years working as a research associate in the lab of Dr. Matt Huentelman and the Center for Rare Childhood Disorders (C4RCD) with Vinodh Narayanan, M.D., carrying out broad sequencing studies in families with rare neurodevelopmental disorders.
+Starting his graduate training at University of California San Diego, Chris’s spent research rotations focused in molecular genetics in the context of neurological disorders as well as downstream computational analysis. This included training rotations in labs including Chris Glass, MD, PhD and Gene Yeo, PhD. Currently, Chris is interested in gene regulation and expression, neuroepigenetics, and how non-coding genetic variation contributes to neurological disease.
 
 UCSD Biomedical Sciences Graduate Program (BMS)
 ======
