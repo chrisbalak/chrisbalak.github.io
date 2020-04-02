@@ -23,7 +23,7 @@ stacks
 
 BMS Class of 2019
 ------
-stacks
+sean's best friend in the program is bill. i probably dislike sean most in the program.
 
 Create content & metadata
 ------
