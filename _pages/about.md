@@ -19,12 +19,8 @@ Starting his graduate training at University of California San Diego, Chris’s 
 <br/>
 
 UCSD Biomedical Sciences Graduate Program (BMS)
-======
-Rotations craziness and alotta courses
-
-BMS Class of 2019
 ------
-
+Rotations craziness, a lot of courses, but great times with an awesome cohort.
 
 Where the magic happens: Cellular and Molecular Medicine labs, UCSD School of Medicine
 ![Editing a markdown file for a talk](/images/20190923_082634.jpg)
