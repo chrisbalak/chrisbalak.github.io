@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+About me:
+------
 Chris Balak is Ph.D. student in the Biomedical Sciences Graduate program at UCSD School of Medicine.
 <br/> 
 <br/>
