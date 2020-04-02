@@ -11,19 +11,15 @@ redirect_from:
 Just a 1st year in the UCSD biomedical sciences (bms) graduate program trying to make it through Corona2020.
 
 
-Stacks.
+.
 
 UCSD Biomedical Sciences Graduate Program (BMS)
 ======
 Rotations craziness and alotta courses
 
 BMS Class of 2019
-======
-stacks
-
-BMS Class of 2019
 ------
-sean's best friend in the program is bill. i probably dislike sean most in the program.
+
 
 Create content & metadata
 ------
