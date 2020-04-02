@@ -10,9 +10,20 @@ redirect_from:
 
 Just a 1st year in the UCSD biomedical sciences (bms) graduate program trying to make it through Corona2020.
 
-UCSD BMS Class of 2019
+
+Stacks.
+
+UCSD Biomedical Sciences Graduate Program (BMS)
 ======
 Rotations craziness and alotta courses
+
+BMS Class of 2019
+======
+stacks
+
+BMS Class of 2019
+------
+stacks
 
 Create content & metadata
 ------
