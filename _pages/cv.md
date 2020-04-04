@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Spring 2020: Ph.D. Research Rotation
+  * Salk Institute for Biological Studies
+  * Computational analyses of CRISPR screens in regulatory regions of the genome 
+  * Mentor/P.I.: Graham McVicker, Ph.D.
+  
 * Winter 2020: Ph.D. Research Rotation
   * Sanford Consortium for Regenerative Medicine
   * CAG repeat disorder disease modeling via Crispr/Cas9 in iPSCs (Spinocerebellar Ataxia type 1)
@@ -40,15 +45,6 @@ Work experience
 * 2012: Henkel Co-Op Research Scholar
   * Henkel AG & Company, KGaA, Scottsdale, AZ
   * Various product line stability and chemical testing
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
