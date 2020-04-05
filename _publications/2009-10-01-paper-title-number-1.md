@@ -1,7 +1,7 @@
 ---
 title: "Functional characterizations of rare UBA1 variants in X-linked Spinal Muscular Atrophy"
 collection: publications
-permalink: /publication/2017-09-04-F1000.md
+permalink: /publication/2009-10-01-paper-title-number-1.md
 excerpt: 'Our results demonstrate a surprising shift from the likelihood of these XL-SMA mutations playing a damaging role in UBA1's enzymatic activity with Ubiquitin, to other roles such as altering UBA1 mRNA splicing via the disruption of splicing factor binding sites, similar to a mechanism in traditional SMA, or disrupting binding to other important in vivo binding partners.'
 date: 2017-09-04
 venue: 'F1000Research, F1000Prime'
