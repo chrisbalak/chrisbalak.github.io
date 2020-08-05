@@ -17,9 +17,5 @@ Chris graduated from Arizona State University with a Bachelor of Science in Gene
 <br/>
 Starting his graduate training at University of California San Diego, Chris’s spent research rotations focused in molecular and computational genetics/epigenetics in the context of neurological disorders. This included training in the labs of Dr. Christopher Glass in the School of Medicine, Dr. Gene Yeo at the Sanford Consortium for Regenerative Medicine, and Dr. Graham McVicker at the Salk Institute. Currently, his intersts are in gene regulation, neuroepigenetics, and how non-coding variation and altered chromatin landscapes contribute to disease.
 
-UCSD Biomedical Sciences Graduate Program (BMS)
-------
-Lucky to be a part of a crazy-talented group of amazing people. --*BMS_Class_of_2019*--
-
-![Editing a markdown file for a talk](/images/20190923_082634.jpg)
+![Editing a markdown file for a talk](/images/20190923_082634_2.jpg)
 Cellular and Molecular Medicine labs, UCSD School of Medicine
